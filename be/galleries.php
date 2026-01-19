@@ -217,7 +217,7 @@ if ($action === 'edit' && $galleryId) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/css/core.min.css" />
-    <title>Gallery Management - Lumiere</title>
+    <title>Gallery Management - Mari Berkarya</title>
     <style>
         * {
             margin: 0;

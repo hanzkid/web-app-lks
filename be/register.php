@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/franken-ui@2.1.2/dist/css/core.min.css"
     />
-    <title>Register - Lumiere</title>
+    <title>Register - Mari Berkarya</title>
     <style>
         * {
             margin: 0;
