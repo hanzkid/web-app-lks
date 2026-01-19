@@ -42,7 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['access_token'] = $result['token'];
             $_SESSION['user_id'] = $result['user_id'];
             $_SESSION['email'] = $email;
-            header('Location: /');
+            header('Location: /be/galleries.php');
             exit;
         } else {
             $error = 'Registration failed. Email may already be in use.';

@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Set base path (adjust if your API is in a subdirectory)
-RewriteBase /api/v1/
+RewriteBase /be/
 
 # Redirect all requests to index.php
 RewriteCond %{REQUEST_FILENAME} !-f
