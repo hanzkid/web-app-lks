@@ -14,7 +14,7 @@ This repository contains the web application side of the system, focusing on app
 ## Requirements
 
 ### PHP
-- **PHP 8.0** or higher
+- **PHP 8.0** or higher ( tested on PHP 8.3 )
 
 ### Required PHP Extensions
 - `mysql`
